@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: websites
+  namespace: zhrancher
   name: website-pw-ziemba-net
 spec:
   replicas: 1
